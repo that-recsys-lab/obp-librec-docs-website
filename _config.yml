@@ -21,8 +21,8 @@
 title: Recsys
 email: lucia.jayne@colorado.edu
 description:
-baseurl: "/obp-librec-main" # the subpath of your site, e.g. /blog
-url: "https://luciajayne.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/obp-librec-docs-website" # the subpath of your site, e.g. /blog
+url: "https://that-recsys-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
